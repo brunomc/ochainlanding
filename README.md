@@ -70,7 +70,7 @@ Follow us on Facebook [@reactconf](https://www.facebook.com/reactconf/)
 
 ### Core members
 
-[![Daniel Galvão](https://avatars2.githubusercontent.com/u/5161645?s=64)](https://github.com/danielGalvao) | [![Nic](https://avatars0.githubusercontent.com/u/66042?s=64)](https://github.com/nic)
+[![Bruno Costa](https://avatars0.githubusercontent.com/u/9918263?s=400&u=efb96c6797570d663b684aa8d57e4dfe5871d768&v=4)](https://github.com/danielGalvao) | [![Nic](https://avatars0.githubusercontent.com/u/66042?s=64)](https://github.com/nic)
 |---|---|
-| Daniel Galvão | Nic |
+| Estevan Pedro | Nic |
 | [@danielGalvao](https://github.com/danielGalvao) | [@nic](https://github.com/nic) |
