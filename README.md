@@ -1,12 +1,11 @@
-# React Conf Brasil
+# Ochain Landing Page
 
 [![Build Status](https://travis-ci.org/react-brasil/conf.svg?branch=master)](https://travis-ci.org/react-brasil/conf)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-#ReactConfBR
-#ReactConfBR2018
-#ReactConfBrasil
+#OchainBR
+
 
 ## Setup
 
@@ -52,15 +51,14 @@ yarn deploy
 
 ## Issues
 
-View all [issues](https://github.com/react-brasil/conf/issues), open [new issue](https://github.com/react-brasil/conf/issues/new) for help.
-
+Não tem ainda.
 ## Pull Requests
 
-**Feel free to contribute**. Describe your PR changes by comments, send it from your fork, and if it is possible, reference related issues.
+Sem PR
 
 ## Contact
 
-<reactconfbr@gmail.com>
+<brunomc@outlook.com>
 
 Join us on [Slack React Brasil](http://react-brasil-slack.herokuapp.com/)
 
