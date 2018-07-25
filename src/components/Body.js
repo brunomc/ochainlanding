@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react';
 import { css } from 'glamor';
 import Globals from '../utils/Globals';
 
-import Event from './Event';
+import Mercado from './Mercado';
 //import Venue from './Venue';
 //import Speakers from './Speakers';
 //import Schedule from './Schedule';
@@ -31,7 +31,7 @@ class App extends PureComponent {
   render() {
     return (
       <div {...styles.container}>
-        <Event />
+        <Mercado />
         {/*<Venue />*/}
         {/*<Speakers />*/}
         {/*<Schedule />*/}
