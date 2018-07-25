@@ -83,44 +83,39 @@ class TextPitch extends PureComponent {
       <div>
          <section id="mercado">
           <div {...styles.container}>
-            <Text title="ÁREAS DE ATUAÇÃO">
-              <h3 lang="en" className="notranslate">
-                Texto aqui
-              </h3>
-              <div />
-              <div {...styles.imgContainer}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXDIhKZ_5dCTp_EE2FeMaPgyR2Y5m5BEVp8y3SMHhnZP06RIC" />
-              </div>
-              <div {...styles.imgContainer}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXDIhKZ_5dCTp_EE2FeMaPgyR2Y5m5BEVp8y3SMHhnZP06RIC" />
-              </div>
-              <div {...styles.imgContainer}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXDIhKZ_5dCTp_EE2FeMaPgyR2Y5m5BEVp8y3SMHhnZP06RIC" />
-              </div>
-              <div {...styles.imgContainer}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXDIhKZ_5dCTp_EE2FeMaPgyR2Y5m5BEVp8y3SMHhnZP06RIC" />
-              </div>
-              <div {...styles.imgContainer}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXDIhKZ_5dCTp_EE2FeMaPgyR2Y5m5BEVp8y3SMHhnZP06RIC" />
-              </div>
-              <div {...styles.imgContainer}>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIXDIhKZ_5dCTp_EE2FeMaPgyR2Y5m5BEVp8y3SMHhnZP06RIC" />
-              </div>
-            
-            </Text>
+            <Text title="ÁREAS DE ATUAÇÃO"> </Text>
           </div>
+          <div style={{display:'flex', flexDirection: 'column', backgroundColor: 'white',width: '100%', alignItems: 'center' }}>
+            <div style={{display: 'flex',flexDirection: 'row', justifyContent: 'space-between', width:'60%', marginBottom: '1em'}}>
+              <div style={{display:'flex',flexDirection: 'column', marginLeft: '2em',marginRight: '1em'}}>
+                <img width='160em' heigth="160em" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Blockchain-Funds.png"/>
+                <span>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et massa pellentesque, imperdiet ex vitae, vestibulum risus. Suspendisse potenti. Sed posuere dolor at ultricies dignissim. Integer id ultricies diam. Donec dictum, lacus at hendrerit iaculis, diam mi dictum ligula, a molestie ligula mi viverra nulla. Aliquam erat volutpat. In a nisl vel enim posuere rutrum.</p>
+                </span>
+              </div>
+              <div style={{display:'flex',flexDirection: 'column', marginLeft: '2em',marginRight: '1em'}}>
+                <img width='160em' heigth="160em" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Blockchain-Funds.png"/>
+                <span>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et massa pellentesque, imperdiet ex vitae, vestibulum risus. Suspendisse potenti. Sed posuere dolor at ultricies dignissim. Integer id ultricies diam. Donec dictum, lacus at hendrerit iaculis, diam mi dictum ligula, a molestie ligula mi viverra nulla. Aliquam erat volutpat. In a nisl vel enim posuere rutrum.</p>
+                </span>
+              </div>
+               <div style={{display:'flex',flexDirection: 'column', marginLeft: '2em',marginRight: '1em'}}>
+                <img width='160em' heigth="160em" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/Blockchain-Funds.png"/>
+                <span>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et massa pellentesque, imperdiet ex vitae, vestibulum risus. Suspendisse potenti. Sed posuere dolor at ultricies dignissim. Integer id ultricies diam. Donec dictum, lacus at hendrerit iaculis, diam mi dictum ligula, a molestie ligula mi viverra nulla. Aliquam erat volutpat. In a nisl vel enim posuere rutrum.</p>
+                </span>
+              </div>
+            </div>
+           </div>
           <div style={{ display:'flex',backgroundColor: 'white', justifyContent: 'center'  }}><a href="#"><img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/arrows-set-1-1/100/arrow3-512.png"/></a></div>
           <iframe
-            title="Video React Conf Brasil 2017"
             {...styles.afterMovie}
             width="100%"
             height="100%"
-            src="https://www.youtube.com/embed/N-vACHJypCM?rel=0&amp;showinfo=0"
-            frameBorder="0"
+            src="https://www.youtube.com/embed/eXJHPDs4M3Y?rel=0"
+            frameborder="0"
             allow="autoplay; encrypted-media"
-            allowFullScreen
-          />
-
+            allowfullscreen />
         </section>
       </div>
     );
