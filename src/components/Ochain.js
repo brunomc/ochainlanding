@@ -30,7 +30,7 @@ class Ochain extends Component {
   render() {
     return (
       <div>
-         <section id="mercado">
+         <section id="ochain">
           <div {...styles.container}>
             <Text title="OCHAIN 2.0 - ORIGINALIDADE E ANÁLISE DE DADOS">Desenvolvemos uma plataforma que garante a originalidade de produtos e
 oferecemos a empresas análise de dados dos consumidores </Text>
@@ -40,24 +40,24 @@ oferecemos a empresas análise de dados dos consumidores </Text>
               <Row style={{backgroundColor: Globals.colors.white ,paddingLeft: '50',marginTop: '1em'}}>
            <Col>
               <Card body style={{backgroundColor: Globals.colors.white,color: Globals.colors.topic }}>
-                <CardTitle style={{fontWeight: 'bold' }}>Registro</CardTitle>
-                <CardText>Aderimos informações na blockchain, registros com garantia de imutabilidade.</CardText> 
+                <CardTitle style={{fontWeight: 'bold' }}>Selos</CardTitle>
+                <CardText>Oferecemos selos para certificar a originalidade dos produtos</CardText> 
               </Card>
             </Col>
             </Row>
             <Row style={{backgroundColor: Globals.colors.white,paddingLeft: '50',marginTop: '1em'}}>
             <Col>
               <Card body style={{backgroundColor: Globals.colors.white,color: Globals.colors.topic }}>
-                <CardTitle  style={{fontWeight: 'bold',color: Globals.colors.topic }}>TOKENIZAÇÃO</CardTitle>
-                <CardText>Criamos os tokens especificamente para sua empresa, bens materiais e digitais.</CardText>
+                <CardTitle  style={{fontWeight: 'bold',color: Globals.colors.topic }}>Aplicativo</CardTitle>
+                <CardText>Um aplicativo de celular para checar a originalidade do produto</CardText>
               </Card>
             </Col>
             </Row>
             <Row style={{backgroundColor: Globals.colors.white,paddingLeft: '50',marginTop: '1em'}}>
             <Col>
               <Card body style={{backgroundColor: Globals.colors.white,color: Globals.colors.topic }}>
-                <CardTitle style={{fontWeight: 'bold'}}>Contratos Inteligentes</CardTitle>
-                <CardText>Desenvolvemos contratos inteligentes para a sua empresa.</CardText>
+                <CardTitle style={{fontWeight: 'bold'}}>Segurança</CardTitle>
+                <CardText>Todas informações estão registrada na blockchain</CardText>
               </Card>
             </Col>          
           </Row>   
@@ -69,24 +69,24 @@ oferecemos a empresas análise de dados dos consumidores </Text>
               <Row style={{backgroundColor: Globals.colors.white,paddingRight: '50',marginTop: '1em'}}>
            <Col >
               <Card body style={{backgroundColor: Globals.colors.white,color: Globals.colors.topic }}>
-                <CardTitle style={{fontWeight: 'bold' }}>Registro</CardTitle>
-                <CardText>Aderimos informações na blockchain, registros com garantia de imutabilidade.</CardText> 
+                <CardTitle style={{fontWeight: 'bold' }}>Transparência</CardTitle>
+                <CardText>Os consumidores irão saber se o produto é de boa qualidade</CardText> 
               </Card>
             </Col>
             </Row>
             <Row style={{backgroundColor: Globals.colors.white,paddingRight: '50',marginTop: '1em'}}>
             <Col>
               <Card body style={{backgroundColor: Globals.colors.white,color: Globals.colors.topic }}>
-                <CardTitle  style={{fontWeight: 'bold' }}>TOKENIZAÇÃO</CardTitle>
-                <CardText>Criamos os tokens especificamente para sua empresa, bens materiais e digitais.</CardText>
+                <CardTitle  style={{fontWeight: 'bold' }}>Valor Agregado</CardTitle>
+                <CardText>Mais valor para sua marca e seus produtos</CardText>
               </Card>
             </Col>
             </Row>
             <Row style={{backgroundColor: Globals.colors.white,paddingRight: '50',marginTop: '1em'}}>
             <Col>
               <Card body style={{backgroundColor: Globals.colors.white,color: Globals.colors.topic }}>
-                <CardTitle style={{fontWeight: 'bold' }}>Contratos Inteligentes</CardTitle>
-                <CardText>Desenvolvemos contratos inteligentes para a sua empresa.</CardText>
+                <CardTitle style={{fontWeight: 'bold' }}>Facilidade</CardTitle>
+                <CardText>Suporte técnico e assistência para a implantação</CardText>
               </Card>
             </Col>          
           </Row>   

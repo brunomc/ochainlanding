@@ -26,7 +26,7 @@ const styles = {
     flexDirection: 'column',
     justifyContent: 'space-between',
     '@media(min-width: 720px)': {
-      width: '100%',
+      width: '100%', 
       justifyContent: 'space-between',
       display: 'flex',
       flexDirection: 'row',
@@ -60,8 +60,8 @@ class Footer extends PureComponent {
             
           </Item>
           <Item>
-            <p>Conteúdo 001</p>
-            <p>Conteúdo 002</p>
+            <p>(48) 99634 - 8787</p>
+            <p>brunomc@outlook.com</p>
           </Item>
         </div>
       </div>
