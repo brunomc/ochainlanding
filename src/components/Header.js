@@ -28,7 +28,7 @@ const Header = () =>
   <div {...styles.container}>
     <VideoPlayer />
     <div style={{display: 'flex',flexDirection: 'row', justifyContent: 'space-between', width: '90%' }}>
-        <Title />
+        
         <TopMenu />
         
     </div>
