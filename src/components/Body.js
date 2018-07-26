@@ -3,6 +3,7 @@ import { css } from 'glamor';
 import Globals from '../utils/Globals';
 
 import Mercado from './Mercado';
+import Ochain from './Ochain';
 //import Venue from './Venue';
 //import Speakers from './Speakers';
 //import Schedule from './Schedule';
@@ -32,6 +33,7 @@ class App extends PureComponent {
     return (
       <div {...styles.container}>
         <Mercado />
+        <Ochain />
         {/*<Venue />*/}
         {/*<Speakers />*/}
         {/*<Schedule />*/}
