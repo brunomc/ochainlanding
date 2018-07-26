@@ -10,7 +10,7 @@ import registroImg from '../media/images/mercado/Shipping-Containers-318x180.jpg
 import tokenImg from '../media/images/mercado/bitcoin-reuters-318x180.jpg';
 import auditoriaImg from '../media/images/mercado/auditoria.png';
 import contratoImg from '../media/images/mercado/contrato-inteligente.jpg';
-import blockchainImg from '../media/images/mercado/hyperledger.png';
+import blockchainImg from '../media/images/mercado/hyperledger.jpg';
 import trabalheImg from '../media/images/mercado/trabalhe.jpg';
 
 const styles = {
