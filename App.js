@@ -20,6 +20,8 @@ class App extends PureComponent {
         <Header />
         <Body />
         <Footer />
+
+        
       </div>
     );
   }
