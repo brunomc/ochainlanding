@@ -35,8 +35,8 @@ const styles = {
       alignSelf: 'auto',
     },
   }),
-  
- 
+
+
 };
 
 class TextPitch extends PureComponent {
@@ -52,7 +52,7 @@ class TextPitch extends PureComponent {
               <CardImg top width="100%" src={registroImg} alt="Card image cap" />
               <Card body>
                 <CardTitle style={{fontWeight: 'bold' }}>Registro</CardTitle>
-                <CardText>Aderimos informações na blockchain, registros com garantia de imutabilidade.</CardText> 
+                <CardText>Aderimos informações na blockchain, registros com garantia de imutabilidade.</CardText>
               </Card>
             </Col>
             <Col sm="4">
@@ -68,14 +68,14 @@ class TextPitch extends PureComponent {
                 <CardTitle>Contratos Inteligentes</CardTitle>
                 <CardText>Desenvolvemos contratos inteligentes para a sua empresa.</CardText>
               </Card>
-            </Col>          
+            </Col>
           </Row>
           <Row style={{backgroundColor: 'white', backgroundColor: 'white',padding: '50'}}>
            <Col sm="4">
               <CardImg top width="100%" src={blockchainImg} alt="Card image cap" />
               <Card body>
                 <CardTitle style={{fontWeight: 'bold' }}>Blockchain Privada</CardTitle>
-                <CardText>Suporte e implantação de blockchain privada corporativa</CardText> 
+                <CardText>Suporte e implantação de blockchain privada corporativa</CardText>
               </Card>
             </Col>
             <Col sm="4">
@@ -91,17 +91,10 @@ class TextPitch extends PureComponent {
                 <CardTitle style={{fontWeight: 'bold' }}>Trabalhe Conosco</CardTitle>
                 <CardText>Seja nosso parceiro e tenha equity no desenvolvimento de novas startups.</CardText>
               </Card>
-            </Col>          
+            </Col>
           </Row>
           <div style={{ display:'flex',backgroundColor: 'white', justifyContent: 'center'  }}><a href="#"><img width="50" height="50" src="https://cdn4.iconfinder.com/data/icons/arrows-set-1-1/100/arrow3-512.png"/></a></div>
-          <iframe
-            {...styles.afterMovie}
-            width="100%"
-            height="100%"
-            src="https://www.youtube.com/embed/eXJHPDs4M3Y?rel=0"
-            frameborder="0"
-            allow="autoplay; encrypted-media"
-            allowfullscreen />
+
         </section>
       </div>
     );

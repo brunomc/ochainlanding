@@ -4,9 +4,12 @@ import Globals from '../utils/Globals';
 
 import Mercado from './Mercado';
 import Ochain from './Ochain';
+import Ochain2 from './Ochain2';
+import Ochain3 from './Ochain3';
+import Ochain4 from './Ochain4';
 //import Venue from './Venue';
-//import Speakers from './Speakers';
-//import Schedule from './Schedule';
+import Speakers from './Speakers';
+import Schedule from './Schedule';
 import TextSC4P from './C4P';
 import Sponsor from './Sponsor';
 import Supporters from './Supporters';
@@ -14,7 +17,7 @@ import Promotions from './Promotions';
 import BuyIngressos from './BuyIngressos';
 import Contact from './Contact';
 import Meetup from './Meetup';
-//import AfterParty from './AfterParty';
+import AfterParty from './AfterParty';
 import BeSponsor from './BeSponsor';
 
 const styles = {
@@ -35,8 +38,7 @@ class App extends PureComponent {
         <Mercado />
         <Ochain />
         {/*<Venue />*/}
-        {/*<Speakers />*/}
-        {/*<Schedule />*/}
+        {/*<Schedule /> */}
         {/*<TextSC4P />*/}
         {/*<Sponsor />*/}
         {/*<Supporters />*/}
@@ -45,6 +47,10 @@ class App extends PureComponent {
         {/*<BeSponsor />*/}
         {/*<Meetup />*/}
         {/*<BuyIngressos />*/}
+        <Ochain2 />
+        <Ochain3 />
+        <Ochain4 />
+                <Speakers />
         {/*<Contact />*/}
       </div>
     );
