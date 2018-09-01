@@ -36,7 +36,7 @@
   },
   "private": false,
   "scripts": {
-    "build": "react-scripts build",
+    "build": "react-scripts build && cp build/index.html build/404.html",
     "deploy": "npm run build && gh-pages -d build",
     "eject": "react-scripts eject",
     "precommit": "lint-staged",
