@@ -33,7 +33,7 @@
   },
   "private": false,
   "scripts": {
-    "build": "react-scripts build",
+    "build": "npm install react-scripts && react-scripts build",
     "deploy": "npm run build",
     "eject": "react-scripts eject",
     "precommit": "lint-staged",
