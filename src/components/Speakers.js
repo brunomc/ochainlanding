@@ -133,7 +133,7 @@ class TextSpeakers extends PureComponent {
                     backgroundPosition: 'center',
                     height: 300,
                     display: 'block',
-                    borderRadius: '6px',
+                    borderRadius: '100px',
                   })}
                 >
                   {speaker.name}
