@@ -5,7 +5,7 @@ import Globals from '../utils/Globals';
 import Text from './Text';
 
 import estevanImg from '../media/images/speakers/estevan-pb.jpg';
-import brunoImg from '../media/images/speakers/bruno-pb.jpg';
+import brunoImg from '../media/images/speakers/brunoAvatar.png';
 import stubailoImg from '../media/images/speakers/sashko-pb.jpg';
 import jbaxleyiiiImg from '../media/images/speakers/jbaxleyiii-pb.jpg';
 import sibeliusImg from '../media/images/speakers/sibelius-pb.jpg';
@@ -103,10 +103,10 @@ export const speakers = [
   },
   {
     id: 2,
-    name: 'Bruno Madeiros',
+    name: 'Bruno Medeiros',
     theme: 'Desenvolvedor fullstack + 10 anos e empreendedor',
     origin: ' Florianópolis, SC',
-    github: 'https://www.linkedin.com/in/estevan-wisoczynski-b6475610b/',
+    github: 'https://www.linkedin.com/in/bruno-medeiros-costa-83856a13/',
     avatar: brunoImg,
     worksIn: 'Github',
     worksLink: 'https://github.com/brunomc',

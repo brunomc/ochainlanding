@@ -26,7 +26,7 @@ class TextContact extends PureComponent {
   render() {
     return (
       <div {...styles.container}>
-        <Text title="Contato" subtitle="Falo conosco">
+        <Text title="Contato" subtitle="Fale conosco">
 
 
           <span>
