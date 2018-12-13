@@ -61,7 +61,9 @@ class Footer extends PureComponent {
           </Item>
           <Item>
             <p>(48) 99634 - 8787</p>
+            <p>(48) 98480 - 8643</p>
             <p>brunomc@outlook.com</p>
+            <p>estevanpwr@outlook.com</p>
           </Item>
         </div>
       </div>
