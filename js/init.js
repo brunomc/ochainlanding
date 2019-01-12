@@ -67,15 +67,3 @@
 		skel.init(_settings.skelJS);
 
 	// jQuery
-		jQuery(function() {
-
-			var $window = $(window);
-
-			// Scrolly links
-				$('.scrolly').n33_scrolly();
-
-			// Forms
-				if (skel.vars.IEVersion < 10)
-					$('form').n33_formerize();
-
-		});
